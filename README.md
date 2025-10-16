@@ -1,5 +1,16 @@
-# Tournament Resources
-[description to be updated soon]
+# PTE Tournament Resources
+
+From July 2023 up to September 2023, first iteration of Pekonya Trinity Encounters being a 6 digit osu! tournament !
+
+ ## Quick Introduction
+ 
+ A 2v2 , osu! STD with a maximum of 3 players each team. 
+ 
+ Number of Participants : 167
+ 
+ Number of Teams : 62
+
+ Number of Staff members : 40 from 15 different countries
 
 ## Important Links
 - [**Forum Post**](https://osu.ppy.sh/community/forums/topics/1790898?n=1)
