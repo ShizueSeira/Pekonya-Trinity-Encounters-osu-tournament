@@ -11,6 +11,13 @@
 - [**Team Registrations**](https://docs.google.com/forms/d/e/1FAIpQLSdw9sbLKZfFbt1KGH9cU-okXaav3YzfJRZZXA5scRejJmVKMw/viewform?pli=1)
 - [**Free Agent Registrations**](https://docs.google.com/forms/d/e/1FAIpQLSd9k6dWZGEULcX8brgyCZkGFTI52YpSpSpe5N9D9E3i8zW2dA/viewform?usp=sf_link)
 
+## Tournament Sheets
+- [**Pekonya Trinity Encounters Admin Sheet**](https://docs.google.com/spreadsheets/d/1HHAHmZTTDlyB4RHaHQ-2bhUchkHOEZhmcQrDYQXnxnw/edit?usp=drive_link)
+- [**Pekonya Trinity Encounters Brackets Ref Sheet**](https://docs.google.com/spreadsheets/d/1furEKtJ5gEFQB_8CRy1iNCTi7QIoca2qGHOcFGl5QjU/edit?usp=drive_link)
+- [**Pekonya Trinity Encounters Pooling Sheet**](https://docs.google.com/spreadsheets/d/1WeVYxODFFkAmdP-uHAXnUhNm6E5Mao-pWS0UkDdVoEY/edit?usp=drive_link)
+- [**Pekonya Trinity Encounters Team Qualifiers**](https://docs.google.com/spreadsheets/d/1pMXcxIl6sKegGLLZuazjrN3eussP2Sp23xXDc-hlqfg/edit?usp=drive_link)
+- [**PTE Templates**](https://docs.google.com/spreadsheets/d/1OIw1l46H9H_KIBYZG8SZ474ut45Lo9d8WJeMRVqi4W4/edit?usp=drive_link)
+
 ## Statistics
 - [**Challonge Bracket**](https://challonge.com/zd2kynb4)
 - [**Qualifier Stats**](https://docs.google.com/spreadsheets/d/1Lou-1lt2HlMmwhxp_iTuyPrxkuQjLpBZPI1UIhW48YQ/edit?usp=sharing)
@@ -20,6 +27,12 @@
 - [**Semifinals Stats**](https://docs.google.com/spreadsheets/d/1vHINDtcY_aX55UkuFAzJcjPsCIrBu-ts46ssdgA06_o/edit?usp=sharing)
 - [**Finals Stats**](https://docs.google.com/spreadsheets/d/1I7d58AAVllFnP_lEdtvAAXxuLYCxG1PGyo4wlDyDr74/edit?usp=sharing)
 - [**Grand Finals Stats**](https://docs.google.com/spreadsheets/d/1XLjHcyV0nvynjxC1W7IQZpZcndQmxHZRHreBPgzB880/edit?usp=sharing)
+
+## Resources & Assets
+- [**Map pool replays (All Stages)**](https://drive.google.com/drive/folders/1XmXiK01Df-pyVJNKXzq62Vnydn3kxO9n?usp=drive_link)
+- [**PTE Banners 2023 (Podium, Staff, Supporter)**](https://drive.google.com/drive/folders/1o5Wv4YvqWr11XfnGjkBkUTSh00W--blZ?usp=drive_link)
+- [**Used Images GFX**](https://drive.google.com/drive/folders/1CkfxCpIg8pRDzJhsUke9ebVSJHWtXp7m?usp=drive_link)
+- [**Latest BB Code of forum post**](https://docs.google.com/document/d/1DFhgHJm9sjkX5pf3J1jWu4HUHYE9jopRfE21jPvrz6Y/edit?usp=drive_link)
 
 ## Stream & Match VODs
 
