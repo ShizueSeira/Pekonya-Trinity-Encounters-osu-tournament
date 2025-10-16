@@ -1,6 +1,12 @@
+
+
 # PTE Tournament Resources
 
+<div align="center">
+<img src="https://github.com/ShizueSeira/Pekonya-Trinity-Encounters-osu-tournament/raw/main/Used%20Images%20-%20GFX/PTE%20-%20Main%20Banner.png" alt="PTE Logo" width="600">
+
 From July 2023 up to September 2023, first iteration of Pekonya Trinity Encounters being a 6 digit osu! tournament !
+</div>
 
  ## Quick Introduction
  
